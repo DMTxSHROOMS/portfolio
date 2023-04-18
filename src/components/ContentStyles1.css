@@ -1,0 +1,30 @@
+.content{
+    text-align: center;
+ 
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    top: 35vh;
+    /* position: absolute; */
+    display: block;
+    gap: 25px;
+    background-color: #3C2A21;
+    
+    }
+
+
+
+    .content,h1 {
+        font-size: 4rem;
+        color:#fff;
+        }
+        .hero,p {
+        font-size: 1.8 rem;
+        font-weight: 200;
+        text-transform: uppercase;
+        margin-bottom: 1.6 rem;
+        color: #fff;
+        }
+.btn{
+    font-size: 15px;
+}
