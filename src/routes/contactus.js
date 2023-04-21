@@ -5,7 +5,7 @@ import Video from '../components/Video'
 import Training from '../components/Training'
 import Contact from '../components/Form'
 
-const Pricing = () => {
+const Contactus = () => {
   return (
     <div>
       <Navbar />
@@ -17,4 +17,4 @@ const Pricing = () => {
   )
 }
 
-export default Pricing
+export default Contactus

@@ -1,6 +1,9 @@
+// Student Name- Divyesh Pawar
+// 8744465
+
 import React from 'react'
 import './FooterStyles.css'
-import {FaFacebook, FaLinkedin, FaMailBulk, FaPhone, FaSearchLocation, FaTwitter} from 'react-icons/fa'
+import {FaFacebook, FaLinkedin, FaMailBulk, FaPhone, FaTwitter} from 'react-icons/fa'
 
 const Footer = () => {
   return (

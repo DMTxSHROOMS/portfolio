@@ -1,5 +1,7 @@
+// Student Name- Divyesh Pawar
+// 8744465
+
 import React from 'react'
-import { Link } from 'react-router-dom'
 import './ContentStyles.css'
 import Intro1 from '../assets/rrr.jpg'
 import Intro2 from '../assets/rrr2.jpg'

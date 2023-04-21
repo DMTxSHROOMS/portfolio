@@ -1,7 +1,9 @@
+// Divyesh Pawar
+// 8744465
+
 import React from 'react'
 import './Training.css'
 
-import {Link} from 'react-router-dom'
 
 import Madrid from '../assets/madrid.jpg'
 import GSW from '../assets/gsw.jpg'

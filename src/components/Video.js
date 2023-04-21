@@ -1,8 +1,8 @@
-/* eslint-disable no-unused-vars */
+/* Divyesh Pawar
+8744465 */
 import React from 'react'
 import "./VideoStyles.css"
 import spaceVideo from "../assets/space.mp4"
-import {Link} from 'react-router-dom'
 
 const Video = () => {
   return (
